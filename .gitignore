@@ -1,0 +1,6 @@
+# Dependencies
+node_modules/
+
+# Build output
+# Note: dist/ contains the bundled analytics script and should be committed
+# so the site works without running npm build
